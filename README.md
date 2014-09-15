@@ -49,7 +49,7 @@
 ![screenshot of a data table or a graph or both](image.png?raw=true) 
 
 
-# Objective 3. Analzye the Week 3 Challenge
+# Objective 3. Analzye Week 3
 
 ### Question 1. {{write-the-question}}
 ```
